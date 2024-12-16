@@ -1,0 +1,3 @@
+﻿  CS 210 project 2 banking.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\any(12): warning STL4038: The contents of <any> are available only with C++17 or later.
+  CS 210 project 2 banking.vcxproj -> C:\Users\wilki\source\repos\CS 210 project 2 banking\Debug\CS 210 project 2 banking.exe
